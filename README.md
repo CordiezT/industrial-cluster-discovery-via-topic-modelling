@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the repository for my master's thesis, **"Industrial Cluster Discovery via NLP."** This project leverages cutting-edge Natural Language Processing (NLP) and Machine Learning (ML) techniques to analyze and cluster business activities within Milton Keynes. By extracting and analyzing textual data from company websites, we uncover valuable insights into the city's economic landscape, revealing hidden patterns and trends in industrial activities.
+Welcome to the repository for my master's thesis, **Industrial Cluster Discovery via NLP.** This project leverages Natural Language Processing (NLP) and Machine Learning (ML) techniques to analyze and cluster business activities within Milton Keynes. By extracting and analyzing textual data from company websites, we uncover valuable insights into the city's economic landscape, revealing hidden patterns and trends in industrial activities.
 
 ## Thesis Abstract
 
