@@ -1,4 +1,5 @@
 # Industrial Cluster Discovery via NLP
+![Heatmap of Business Density](clusters-milton-keynes.png "Business Density Heatmap")
 
 ## Overview
 
